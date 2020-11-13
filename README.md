@@ -1,0 +1,2 @@
+# Project-5
+Action Research project – The project included various concepts of Business Intelligence (BI) and Extract, Transform and Load (ETL). Understand the duties and responsibilities of an IT administrator was a part of the project. Finally, the project work expected to learn the actual functionalities of a BI tool, and create different visual reports and dashboard by using a BI tool. The tools used were Tableau, SQL commands, Linux commands, MSBI functionalities, ETL commands, AND MS word.
